@@ -1,0 +1,61 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"details": "Implements voting process along with vote delegation",
+			"kind": "dev",
+			"methods": {},
+			"title": "Ballot",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/4_Hello.sol": "Hellow"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/4_Hello.sol": {
+			"keccak256": "0xbd53c3ecc4f9614fab40f4dec745f464b9f1217af1611446d3074d8508ab62b9",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://403a8f5144a5da0591622c4200090a09113673036f837ff8e861c50c9eb0ab24",
+				"dweb:/ipfs/QmNuV4bdkWrmyRmCX4su6Mm7YrwugsSxcyCpW85mH5czu7"
+			]
+		}
+	},
+	"version": 1
+}
